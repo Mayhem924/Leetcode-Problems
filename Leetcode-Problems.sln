@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{3FBDFD30-A147-4962-A93D-ED128463F80E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{3FBDFD30-A147-4962-A93D-ED128463F80E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{B499C476-D5C0-40CF-87E8-361D3B1D9AEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{B499C476-D5C0-40CF-87E8-361D3B1D9AEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{D22716F4-281D-417F-B197-0F0689B4E476}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{D22716F4-281D-417F-B197-0F0689B4E476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertBinaryTree", "InvertBinaryTree\InvertBinaryTree.csproj", "{F1AA552F-4434-467C-B163-BEC13A723A38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvertBinaryTree", "InvertBinaryTree\InvertBinaryTree.csproj", "{F1AA552F-4434-467C-B163-BEC13A723A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{61219BC6-909E-4F63-B4BD-04695E28DEFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F1AA552F-4434-467C-B163-BEC13A723A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1AA552F-4434-467C-B163-BEC13A723A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1AA552F-4434-467C-B163-BEC13A723A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61219BC6-909E-4F63-B4BD-04695E28DEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61219BC6-909E-4F63-B4BD-04695E28DEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61219BC6-909E-4F63-B4BD-04695E28DEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61219BC6-909E-4F63-B4BD-04695E28DEFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
