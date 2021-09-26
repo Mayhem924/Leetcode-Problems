@@ -17,9 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{76692550-7B98-4C0C-B400-3FF4FC7900F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{58636ABC-6851-4A4E-9A3B-4CDF53CEE40B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{58636ABC-6851-4A4E-9A3B-4CDF53CEE40B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implement strStr()", "Implement strStr()\Implement strStr().csproj", "{07B7270E-09AD-456F-9E65-962160865C17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implement strStr()", "Implement strStr()\Implement strStr().csproj", "{07B7270E-09AD-456F-9E65-962160865C17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayNesting", "ArrayNesting\ArrayNesting.csproj", "{9F1672E8-BE1B-4E2B-82F6-97E200147814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{26B5AAE9-E000-4011-BCFE-E85617521C58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{07B7270E-09AD-456F-9E65-962160865C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07B7270E-09AD-456F-9E65-962160865C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07B7270E-09AD-456F-9E65-962160865C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1672E8-BE1B-4E2B-82F6-97E200147814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1672E8-BE1B-4E2B-82F6-97E200147814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1672E8-BE1B-4E2B-82F6-97E200147814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1672E8-BE1B-4E2B-82F6-97E200147814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B5AAE9-E000-4011-BCFE-E85617521C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B5AAE9-E000-4011-BCFE-E85617521C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B5AAE9-E000-4011-BCFE-E85617521C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B5AAE9-E000-4011-BCFE-E85617521C58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
