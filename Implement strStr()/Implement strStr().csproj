@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Implement_strStr__</RootNamespace>
+    <RootNamespace>Implement_strStr</RootNamespace>
   </PropertyGroup>
 
 </Project>

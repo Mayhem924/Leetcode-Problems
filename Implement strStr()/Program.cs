@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Implement_strStr__
+namespace Implement_strStr
 {
     class Program
     {
