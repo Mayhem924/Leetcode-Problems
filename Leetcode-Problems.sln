@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implement strStr()", "Imple
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayNesting", "ArrayNesting\ArrayNesting.csproj", "{9F1672E8-BE1B-4E2B-82F6-97E200147814}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{26B5AAE9-E000-4011-BCFE-E85617521C58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOne", "PlusOne\PlusOne.csproj", "{26B5AAE9-E000-4011-BCFE-E85617521C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortColors", "SortColors\SortColors.csproj", "{70EDB13D-D517-4156-9377-3DB06269AB55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{26B5AAE9-E000-4011-BCFE-E85617521C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26B5AAE9-E000-4011-BCFE-E85617521C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26B5AAE9-E000-4011-BCFE-E85617521C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70EDB13D-D517-4156-9377-3DB06269AB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EDB13D-D517-4156-9377-3DB06269AB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EDB13D-D517-4156-9377-3DB06269AB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EDB13D-D517-4156-9377-3DB06269AB55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
