@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOne", "PlusOne\PlusOne.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortColors", "SortColors\SortColors.csproj", "{70EDB13D-D517-4156-9377-3DB06269AB55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfEvenNumbersAfterQueries", "SumOfEvenNumbersAfterQueries\SumOfEvenNumbersAfterQueries.csproj", "{5E7E5694-6AB0-453B-BC16-5F40A2536767}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{70EDB13D-D517-4156-9377-3DB06269AB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70EDB13D-D517-4156-9377-3DB06269AB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70EDB13D-D517-4156-9377-3DB06269AB55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7E5694-6AB0-453B-BC16-5F40A2536767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7E5694-6AB0-453B-BC16-5F40A2536767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7E5694-6AB0-453B-BC16-5F40A2536767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7E5694-6AB0-453B-BC16-5F40A2536767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
